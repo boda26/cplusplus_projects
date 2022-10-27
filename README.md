@@ -1,2 +1,2 @@
 # cpp_projects
-Some projects written in C++.
+C++ projects for CS128-Intro to Computer Science II, Spring 2022.
